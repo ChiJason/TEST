@@ -5,7 +5,7 @@
 
 github render for me ^ ^
 
-[index test](https://mythnc.github.com/test/)
+[index test](https://mythnc.github.io/test/)
 
 1. 1
 2. 1
